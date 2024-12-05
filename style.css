@@ -29,7 +29,7 @@ nav{
     overflow-x: none;
     background-color: #e1e3ef;
     background-image: linear-gradient(62deg, #e1e3ef 0%, #c3d7fc 100%);
-
+    flex-wrap: wrap;
 }
 
 .navContainer{
